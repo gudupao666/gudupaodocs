@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a4 as c}from"./chunks/framework.CI8or701.js";const p=JSON.parse('{"title":"联系","description":"","frontmatter":{},"headers":[],"relativePath":"connect/index.md","filePath":"connect/index.md"}'),r={name:"connect/index.md"},o=c("",3),f=[o];function n(d,i,s,l,b,_){return a(),t("div",null,f)}const h=e(r,[["render",n]]);export{p as __pageData,h as default};
